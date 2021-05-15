@@ -1,0 +1,12 @@
+INFO -- 2021-05-15 17:24:41,956: Profile created ID: 2@gmail.com
+WARNING -- 2021-05-15 17:24:41,960: Profile created ID: 2@gmail.com
+ERROR -- 2021-05-15 17:24:41,961: Profile created ID: 2@gmail.com
+CRITICAL -- 2021-05-15 17:24:41,962: Profile created ID: 2@gmail.com
+INFO -- 2021-05-15 19:43:21,363: Profile created ID: test@gmail.com
+WARNING -- 2021-05-15 19:43:21,364: Profile created ID: test@gmail.com
+ERROR -- 2021-05-15 19:43:21,364: Profile created ID: test@gmail.com
+CRITICAL -- 2021-05-15 19:43:21,365: Profile created ID: test@gmail.com
+INFO -- 2021-05-15 19:48:17,595: Image deleted ID: category images/lol_awTXOnU.jpg
+WARNING -- 2021-05-15 19:48:17,597: Image deleted ID: category images/lol_awTXOnU.jpg
+ERROR -- 2021-05-15 19:48:17,598: Image deleted ID: category images/lol_awTXOnU.jpg
+CRITICAL -- 2021-05-15 19:48:17,599: Image deleted ID: category images/lol_awTXOnU.jpg
